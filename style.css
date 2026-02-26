@@ -1,0 +1,14 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+body {
+background-color: color-mix(in hsl shorter hue, black 15%, orange 95%);
+color: rgb(0, 0, 7);
+font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    /* This changes the color of the Header*/
+    color: rgb(131, 4, 4);
+}
